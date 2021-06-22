@@ -1,1 +1,2 @@
-# Berned-Dev.github.io
+# Personal Website
+Berned-Dev.github.io
